@@ -17,12 +17,13 @@ body
     padding: 22px 0;
     width: 1200px;
     font: 13px/22px Helvetica, Arial, sans-serif;
-    background: linear-gradient(blue, purples)
+    background: linear-gradient(blue, purple)
 }
 
 #wrapper
 {
     width: 1200px;
+    background: linear-gradient(red,black)
 }
 
 h1
