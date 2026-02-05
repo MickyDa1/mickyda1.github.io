@@ -54,7 +54,7 @@ header
 {
     height: 150px;
     color: #FFFFFF;
-    background-color: #FF6600;
+    background-color: #1f00b9;
 }
 
 nav
@@ -62,7 +62,7 @@ nav
 	margin: 10px 0px;
     height: 50px;
     line-height: 50px;
-    background-color: #cc2200;
+    background-color: #000000;
 }
 
 nav ul
@@ -78,7 +78,7 @@ nav ul li
     display: inline;
     padding: 0px 20px;
     font-size: medium;
-    opacity: 0.4;
+    opacity: 1.0;
 }
 
 aside ul
@@ -93,7 +93,7 @@ aside ul
 
 li:hover
 {
-    opacity: 1.0;
+    opacity: 0.4;
 }
 
 aside ul li
@@ -116,7 +116,7 @@ article
 section
 {
 	padding-left: 20px;
-	background: #fff5e0;
+	background: #6b4900;
 	margin:  20px 0px;
 	border: 1px solid #555;
 	
