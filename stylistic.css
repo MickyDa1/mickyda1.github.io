@@ -52,9 +52,9 @@ p
 header
 {
     height: 150px;
-    color: #000000;
-    background-color: #ffffff;
-    align-items: center;
+    color: #ff5500;
+    background: linear-gradient(blue, purple)
+    /*background-color: #ffffff;*/
 }
 
 nav
