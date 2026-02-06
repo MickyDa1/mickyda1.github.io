@@ -17,7 +17,7 @@ body
     padding: 22px 0;
     width: 1200px;
     font: 13px/22px Helvetica, Arial, sans-serif;
-    background: linear-gradient(blue, purple)
+    background: linear-gradient(blue, purple, blue)
 }
 
 #wrapper
@@ -166,3 +166,4 @@ a
     color: #ccc;
     text-decoration: none;
 }
+
