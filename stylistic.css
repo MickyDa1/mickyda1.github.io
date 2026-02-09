@@ -78,6 +78,12 @@ nav ul li:hover {
     float: right;
 }
 
+#main2 {
+    padding-top: 20px;
+    width: 960px;
+    margin: 0 auto;
+}
+
 /* Ensures the image doesn't break the layout */
 #main img {
     max-width: 100%;
